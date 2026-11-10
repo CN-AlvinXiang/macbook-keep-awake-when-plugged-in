@@ -1,5 +1,7 @@
 # macbook-keep-awake-when-plugged-in
 
+**中文** | [English](README.en.md)
+
 **MacBook 插电合盖不睡眠，拔电合盖正常睡眠**——一键安装的 macOS 小工具。
 
 适合：把 MacBook 当"服务器"用，插着电合上盖子仍想远程操控（SSH、跑任务、下载），
